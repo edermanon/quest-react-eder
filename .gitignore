@@ -29,4 +29,4 @@ pages
 Home
 index.jsx
 .babelrc
-webpack.comfig.js
+webpack.config.js
